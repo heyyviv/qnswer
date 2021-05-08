@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710438155951",
+    "project_id": "qnswer-acd36",
+    "storage_bucket": "qnswer-acd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710438155951:android:473692d920098d52a0865a",
+        "android_client_info": {
+          "package_name": "com.example.qnswer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710438155951-70mjl7o9n5t57ga0b8qilp0i3aujbuta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1BgoMeCdouHyQjoSA8N8hFpgZS6xAib8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710438155951-70mjl7o9n5t57ga0b8qilp0i3aujbuta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
